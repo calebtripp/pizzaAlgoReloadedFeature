@@ -1,0 +1,6 @@
+test
+this is now a branch of main for pizzaAlgo using:
+git branch to check which branch I'm on
+git branch feature to create the feature branch
+git checkout feature to switch the branch I'm working on to the feature branch.
+These changes will then be merged using different (merge) functions.
